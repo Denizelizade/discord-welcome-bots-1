@@ -1,19 +1,19 @@
 {
   "tokens": [
-    "TOKEN 1",
+    "OTU5NzIzMjI1ODc5ODE4Mjcw.YkgB5w.QS75l7FQhXFC2bZLjmK-TvTiuO0",
     "TOKEN 2",
     "TOKEN 3" ],
   
   "channels": [
-    "SESKANALI ID 1",
+    "938162510949937204",
     "SESKANALI ID 2",
     "SESKANALI ID 3" ],
 
   "staffRoles": [
-    "YETKILI ROL ID"],
+    "938140761516568616"],
 
   "unregisterRoles": [
-    "KAYITSIZ ROL ID"],
+    "938133941620195409"],
   
   "welcomeSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455073486503936/hosgeldin.mp3",
   "staffSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455065609076806/yetkili.mp3"
